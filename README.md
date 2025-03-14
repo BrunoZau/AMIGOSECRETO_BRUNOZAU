@@ -14,7 +14,7 @@ O projeto \"Amigo Secreto Bruno Zau\" é uma aplicação web simples e divertida
 *   **Exibir resultados:** Mostra quem tirou quem no sorteio.
 
 ## Acesso ao Projeto
-*   ** 
+*   https://brunozau.github.io/AmigoSecreto_BrunoZau/ 
 
 ## Tecnologias Utilizadas
 *   **HTML:** Estrutura da página web.
